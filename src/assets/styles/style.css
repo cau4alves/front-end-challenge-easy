@@ -121,6 +121,14 @@ header .profile img {
     align-items: center;
 }
 
+.our-products button {
+    color: #B88E2F;
+    border: 1px solid #B88E2F;
+    background-color: white;
+    width: 150px;
+    padding: 10px 0px 10px 0px;
+}
+
 .our-products .top-side {
     display: flex;
     gap: 20px;
