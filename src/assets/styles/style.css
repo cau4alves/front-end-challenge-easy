@@ -199,3 +199,7 @@ header .profile img {
 .share h2 {
     text-align: center;
 }
+
+footer {
+    display: flex;
+}
