@@ -152,3 +152,36 @@ header .profile img {
 .products p {
     margin: 0px 0px 0px 15px;
 }
+
+.inspirations {
+    display: flex;
+    align-items: center;
+    gap: 350px;
+    margin: 150px 0px 0px 0px;
+    background-color: #FCF8F3;
+}
+
+.inspirations .content {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    height: 50%;
+    margin: 0px 0px 0px 80px;
+}
+
+.content h2 {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.content button {
+    border: 0px;
+    background-color: #B88E2F;
+    color: white;
+    width: 150px;
+    padding: 10px 0px 10px 0px;
+}
+
+.inspirations .carrossel {
+    margin: 50px 0px 0px 0px;
+}
