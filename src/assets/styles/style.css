@@ -185,3 +185,17 @@ header .profile img {
 .inspirations .carrossel {
     margin: 50px 0px 0px 0px;
 }
+
+.share {
+    display: flex;
+    flex-direction: column;
+    margin: 50px 0px 0px 0px;
+}
+
+.share p {
+    text-align: center;
+}
+
+.share h2 {
+    text-align: center;
+}
