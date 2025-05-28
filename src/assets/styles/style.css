@@ -189,7 +189,7 @@ header .profile img {
 .share {
     display: flex;
     flex-direction: column;
-    margin: 50px 0px 0px 0px;
+    margin: 50px 0px 50px 0px;
 }
 
 .share p {
@@ -201,5 +201,36 @@ header .profile img {
 }
 
 footer {
+    margin: 60px 0px 0px 0px;
     display: flex;
+    width: 100%;
+    gap: 250px;
+}
+
+footer .first-column {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    margin: 0px 0px 0px 40px;
+}
+
+footer .second-column {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    margin: 0px 0px 40px 0px;
+}
+
+footer .third-column {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.linha {
+    margin: 0px 40px;
+}
+
+.p-footer {
+    margin: 20px 0px 20px 60px;
 }
