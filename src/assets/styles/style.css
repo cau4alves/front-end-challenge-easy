@@ -166,8 +166,9 @@ header .profile img {
     flex-direction: column;
     gap: 15px;
     height: 50%;
-    margin: 0px 0px 0px 80px;
+    margin: 0px 0px 0px 40px;
 }
+
 
 .content h2 {
     font-weight: bold;
@@ -233,4 +234,15 @@ footer .third-column {
 
 .p-footer {
     margin: 20px 0px 20px 60px;
+}
+
+.fourth-column input {
+    border: 0px;
+    border-bottom: 1px solid black;
+}
+
+.fourth-column button {
+    background-color: white;
+    border: 0px;
+    border-bottom: 1px solid black;
 }
